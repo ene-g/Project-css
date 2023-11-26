@@ -1,0 +1,38 @@
+.position-example{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+margin: 32px;
+color: white;
+font-size: 46px;
+font-weight: bold;
+font-style: oblique;
+font-family: 'Courier New', Courier, monospace;
+line-height: 42px;
+text-transform: uppercase;
+letter-spacing: 24px;
+}
+
+/*.div1{
+position: sticky;
+top: 32px;
+background-color: red;
+}
+
+.parent-div{
+    position: relative;
+}
+.div2{
+    position: absolute;
+    background-color: blueviolet;
+}
+.div3{
+    position: fixed;
+    top: 32px;
+    background-color: yellow;
+}*/
+
+.div1{
+    background-color:  rgb(180, 30, 84);
+    background-color:rgba
+}

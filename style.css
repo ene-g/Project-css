@@ -1,0 +1,47 @@
+p{
+    background-color:yellow
+}
+span{
+    background-color: pink;
+}
+
+h1{
+    color: blue;
+}
+
+*{
+    margin: 16px;
+}
+
+.primele-paragrafe{
+    background-color: pink;
+}
+
+#special-span{
+    background-color: red;
+    color:white;
+    display: none;
+}
+
+.primele-span{
+    background-color: blueviolet;
+}
+
+  /*.primele-span.span1{
+  font-style: italic;
+  visibility:hidden
+}*/
+
+.div-class .heading-class{
+    color: cadetblue;
+    border: 3px dashed red;
+    /*border-width: 3px;
+    border-style: dashed;
+    border-color: red;*/
+    padding: 20px 32px 10px 5px;
+    /*padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+*/}
+
